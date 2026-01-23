@@ -12,9 +12,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+{% include search-box.html %}
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include search-info.html %}
+
+{% include citation.html lookup="Engagement with Metacognition-promoting Web-based Interventions and its Relationship with Learning Outcomes" style="rich" %}
 
 {% include section.html %}
 

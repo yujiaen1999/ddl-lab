@@ -3,10 +3,12 @@
 - id: doi:10.18260/1-2--56359
   type: paper
   image: https://www.jiaenyu.com/tn/images/compassx_logo5.png
+  date: '2025-06-22'
 
 - id: doi:10.18260/1-2--56521
   type: paper
   image: https://www.jiaenyu.com/tn/images/clearmind_logo3.png
+  date: '2025-06-22'
 
 - id: doi:10.10.1145/3641555.3705256
   type: paper

@@ -1,1 +1,1 @@
-Sitemap: http://www.ddl-lab.com/sitemap.xml
+Sitemap: https://yujiaen1999.github.io/ddl-lab/sitemap.xml

@@ -1,5 +1,5 @@
 ---
-name: U Lam Lou
+name: Peter Tu
 image: images/photo.jpg
 description: MS Student
 role: ms

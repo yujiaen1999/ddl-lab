@@ -22,21 +22,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'ms'" %}
-
-{% include section.html background="images/hdsi-background3.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include list.html data="members" component="portrait" filter="role == 'undergraduate'" %}
 
 {% include section.html %}
 
-{% capture content %}
+## Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+<ul>
+  <li>Yunyi (Winnie) She (MSCS, Northwestern University)</li>
+</ul>
 
-{% endcapture %}
 
-{% include grid.html style="square" content=content %}
+

@@ -1,9 +1,15 @@
 ---
 ---
 
-# yujiaen1999's Website
+<!-- # yujiaen1999's Website -->
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the UCSD Data-Driven Learning Lab website! [Some description of our lab. -->] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## News
+
+<ul>
+  <li><strong>Sept. 2025</strong> – Our work <em>XXXX</em> was accepted at <a href="https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/121/Improving-LLM-Generated-Educational-Content-A-Case-Study-on-Prototyping-Prompt-Engi">Conference Name</a>!</li>
+</ul>
 
 {% include section.html %}
 
@@ -15,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}

@@ -8,7 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: jiy037@ucsd.edu
+  # email: jiy037@ucsd.edu
   # orcid: 0000-0001-8713-9213
   # google-scholar: ETJoidYAAAAJ
   # github: yujiaen1999

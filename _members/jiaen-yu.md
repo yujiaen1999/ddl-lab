@@ -6,7 +6,9 @@ url: https://www.jiaenyu.com
 # group: alum
 links:
   home-page: https://www.jiaenyu.com
+  google-scholar: https://scholar.google.com/citations?user=ZFo0YosAAAAJ&hl=en
   github: yujiaen1999
+  twitter: jiaenyu2024
   orcid: 0000-0001-XXXX-XXXX
 ---
 

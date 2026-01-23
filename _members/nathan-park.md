@@ -1,8 +1,8 @@
 ---
-name: U Lam Lou
+name: Nathan Park
 image: images/photo.jpg
-description: MS Student
-role: ms
+description: Undergrad Student
+role: undergraduate
 links:
   email: xxx@gmail.com
   twitter: sarahjohnson

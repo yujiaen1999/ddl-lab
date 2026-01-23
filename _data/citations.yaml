@@ -56,3 +56,18 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+- id: doi:/10.1145/3626252.3630805
+  title: 'ClearMind Workshop: An ACT-based Intervention Tailored for Academic Procrastination
+    among Computing Students'
+  authors:
+  - Yunyi She
+  - Korena S. Klimczak
+  - Michael E. Levin
+  - Soohyun Nam Liao
+  publisher: Proceedings of the 55th ACM Technical Symposium on Computer Science Education
+    V. 1
+  date: '2024-03-07'
+  link: https://doi.org/hbk4gm
+  type: paper
+  plugin: sources.py
+  file: sources.yaml

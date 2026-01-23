@@ -18,7 +18,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://www.jiaenyu.com/tn/images/compassx_logo5.png
 - id: doi:10.18260/1-2--56521
   title: 'Exploring Student Use of an ACT-based Mobile Application and
 
@@ -38,7 +37,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://www.jiaenyu.com/tn/images/clearmind_logo3.png
 - id: doi:10.1145/3641555.3705256
   title: Student Usage of Metacognition-Promoting Tool in a CS2 Course and its Relationship
     with Performance
@@ -55,23 +53,6 @@
   date: '2025-02-18'
   link: https://doi.org/hbk4gc
   orcid: 0009-0005-9204-8806
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.10.1145/3641555.3705256
-  title: Student Usage of Metacognition-Promoting Tool in a CS2 Course and its Relationship
-    with Performance
-  authors:
-  - Jiaen Yu
-  - Anshul Shah
-  - John Driscoll
-  - Yandong Xiang
-  - Xingyin Xu
-  - Sophia Krause-Levy
-  - Soohyun Nam Liao
-  publisher: Proceedings of the 56th ACM Technical Symposium on Computer Science Education
-    V. 2
-  date: '2025-02-18'
-  link: https://doi.org/10.10.1145/3641555.3705256
-  type: paper
   plugin: sources.py
   file: sources.yaml
+  type: paper

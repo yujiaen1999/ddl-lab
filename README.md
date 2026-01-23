@@ -5,6 +5,6 @@
 
   # yujiaen1999's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[yujiaen1999.github.io/ddl-lab](https://yujiaen1999.github.io/ddl-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

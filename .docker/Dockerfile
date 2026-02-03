@@ -10,6 +10,7 @@ COPY Gemfile Gemfile.lock _cite/requirements.txt ./
 # install ruby packages
 RUN VERSION=$(grep -A 1 'BUNDLED WITH' Gemfile.lock | tail -n 1 | xargs); \
     gem install bundler --version ${VERSION} && \
+    bundle lock --add-platform $(ruby -e 'puts Gem::Platform.local.to_s') && \
     bundle _${VERSION}_ install
 
 # install python

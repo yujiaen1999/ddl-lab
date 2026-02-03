@@ -1,11 +1,12 @@
 ---
 name: Dingyi Yu
-image: images/photo.jpg
+image: images/image-dingyi.jpg
 description: MS Student
 role: ms
 links:
-  email: xxx@gmail.com
-  twitter: sarahjohnson
+  linkedin: dingyi-yu-a79219274
+  email: diy005@ucsd.edu
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi my name is Dingyi Yu. As a developer in WillowMind team, I mainly work on core features and UI development. In my daily life, I like digital drawing, writing and restaurant hopping. Feel free to contact me if you have any questions!

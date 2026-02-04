@@ -1,7 +1,9 @@
 ---
 name: Jiaen Yu
 image: images/image-jiaen.png
-role: phd
+role: phd_stu
+description: PhD Student
+affiliation: Halıcıoğlu Data Science Institute
 url: https://www.jiaenyu.com
 # group: alum
 links:

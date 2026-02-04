@@ -2,7 +2,9 @@
 name: Yiqing (Brenda) Li
 image: images/image-brenda.jpg
 # description: Lead Programmer
-role: phd
+role: phd_stu
+description: PhD Student
+affiliation: Halıcıoğlu Data Science Institute
 links:
   linkedin: yiqing-li-172583191
   email: yil213@ucsd.edu

@@ -5,11 +5,9 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Who we are
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+[TODO: brief introduction about the team]
 
 {% include section.html %}
 
@@ -17,7 +15,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd_stu'" %}
 
 {% include section.html %}
 
@@ -26,10 +24,13 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-## Alumni
+## Lab Alumni
 
 <ul>
-  <li>Yunyi (Winnie) She (MSCS, Northwestern University)</li>
+  <li>Jinya (Yaya) Jiang </li>
+  <li>John Driscoll -> UC San Diego, MSDS</li>
+  <li>Yandong Xiang -> Columbia University, MSDS</li>
+  <li>Yunyi (Winnie) She -> Northwestern University, MSCS</li>
 </ul>
 
 

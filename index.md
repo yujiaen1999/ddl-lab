@@ -8,7 +8,7 @@ Welcome to the UCSD Data-Driven Learning Lab website! [Some description of our l
 ## News
 
 <ul>
-  <li><strong>Sept. 2025</strong> – Our work <em>XXXX</em> was accepted at <a href="https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/121/Improving-LLM-Generated-Educational-Content-A-Case-Study-on-Prototyping-Prompt-Engi">Conference Name</a>!</li>
+  <li><strong>Sept. 2025</strong> – Our work <em>XXXX</em> was accepted at <a href="https://sigcse2026.sigcse.org/">Conference Name</a>!</li>
 </ul>
 
 {% include section.html %}

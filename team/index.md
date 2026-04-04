@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Who we are
 
-[TODO: brief introduction about the team]
+We are a research group at the Halıcıoğlu Data Science Institute (HDSI), UC San Diego, led by Professor Soohyun Nam Liao.
+We are a group of student researchers and developers working at the intersection of educational data mining, human-centered AI, and computing education. 
+Our mission is to design and evaluate data-driven and AI-powered systems that support student learning, promote metacognition, and enhance learning experiences in computing courses.
 
 {% include section.html %}
 

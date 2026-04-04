@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3770762.3772619
+  title: 'Improving LLM-Generated Educational Content: A Case Study on Prototyping,
+    Prompt Engineering, and Evaluating a Tool for Generating Programming Problems
+    for Data Science'
+  authors:
+  - Jiaen Yu
+  - Ylesia Wu
+  - Gabriel Cha
+  - Ayush Shah
+  - Samuel Lau
+  publisher: Proceedings of the 57th ACM Technical Symposium on Computer Science Education
+    V.1
+  date: '2026-02-17'
+  link: https://doi.org/hbpjtd
+  orcid: 0009-0005-9204-8806
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.18260/1-2--56359
   title: Engagement with Metacognition-promoting Web-based Interventions and its Relationship
     with Learning Outcomes
@@ -18,6 +35,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  image: images/ASEE.jpg
 - id: doi:10.18260/1-2--56521
   title: 'Exploring Student Use of an ACT-based Mobile Application and
 
@@ -37,6 +55,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  image: images/ASEE.jpg
 - id: doi:10.1145/3641555.3705256
   title: Student Usage of Metacognition-Promoting Tool in a CS2 Course and its Relationship
     with Performance
@@ -56,6 +75,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  image: images/SIGCSE2025.png
 - id: doi:/10.1145/3626252.3630805
   title: 'ClearMind Workshop: An ACT-based Intervention Tailored for Academic Procrastination
     among Computing Students'
@@ -69,5 +89,6 @@
   date: '2024-03-07'
   link: https://doi.org/hbk4gm
   type: paper
+  image: images/SIGCSE2024.png
   plugin: sources.py
   file: sources.yaml

@@ -3,17 +3,17 @@
 - id: doi:10.18260/1-2--56359
   type: paper
   date: '2025-06-22'
-  image: images/ASEE.jpg
+  image: /images/ASEE.jpg
 
 - id: doi:10.18260/1-2--56521
   type: paper
   date: '2025-06-22'
-  image: images/ASEE.jpg
+  image: /images/ASEE.jpg
 
 - id: doi:10.1145/3641555.3705256
   type: paper
-  image: images/SIGCSE2025.png
+  image: /images/SIGCSE2025.png
 
 - id: doi:/10.1145/3626252.3630805
   type: paper
-  image: images/SIGCSE2024.png
+  image: /images/SIGCSE2024.png

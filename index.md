@@ -5,7 +5,7 @@
 
 <!-- Welcome to the UCSD Data-Driven Learning Lab website!  -->
 
-Welcome to the Data-Driven Learning Lab (DDL\-Lab) at University of California at San Diego! 
+Welcome to the Data-Driven Learning Lab (DDL\-Lab) at University of California San Diego! 
 
 We are a research group at the Halıcıoğlu Data Science Institute (HDSI) focused on educational data mining, human-centered AI, and mental health support in computing education. 
 <!-- Our work explores how data-driven and AI-powered systems can support student learning, foster metacognition, and improve educational experiences in computing courses. -->

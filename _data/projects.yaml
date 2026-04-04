@@ -4,10 +4,10 @@
   image: images/background.jpg
   # link: https://github.com/
   description: 
-    Introduce CompassX here, 
-    Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    A web-based data-driven learning platform designed to 
+    promote students’ metacognitive skills in computing courses. 
+    It integrates planning, self-monitoring, 
+    and reflection into programming assignments to support self-regulated learning.
 
   repo: greenelab/lab-website-template
   tags:
@@ -20,8 +20,10 @@
   image: images/background.jpg
   # link: https://github.com/
   description: 
-    Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    ClearMind is a mobile application grounded in behavioral and psychological principles (ACT) 
+    to help students manage and overcome academic procrastination. 
+    It explores how evidence-based content and interactive activities 
+    can help students learn, reflect, and grow at your own pace.
   repo: greenelab/lab-website-template
   tags:
     # - resource
@@ -33,8 +35,9 @@
   image: images/background.jpg
   # link: https://github.com/
   description: 
-    Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    This project examines how generative AI, including large language models (LLMs), 
+    is reshaping student–instructor interactions in computing education. 
+    It aims to inform the design of human-centered AI systems that better support teaching and learning.
   repo: greenelab/lab-website-template
 
 

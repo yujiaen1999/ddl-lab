@@ -16,7 +16,7 @@
   link: https://doi.org/hbpjtd
   orcid: 0009-0005-9204-8806
   plugin: sources.py
-  file: sources.yaml
+  file: sources.yamlgit
   type: paper
   image: /images/SIGCSE2026.png
 - id: doi:10.18260/1-2--56359

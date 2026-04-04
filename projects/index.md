@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}What we do
 
-[Summarize our research area and ongoing projects]
+<!-- [Summarize our research area and ongoing projects] -->
 
 <!-- {% include tags.html tags="publication, resource, website" %} -->
 

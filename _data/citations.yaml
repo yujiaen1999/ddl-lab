@@ -35,7 +35,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/ASEE.jpg
+  image: /images/ASEE.jpg
 - id: doi:10.18260/1-2--56521
   title: 'Exploring Student Use of an ACT-based Mobile Application and
 
@@ -55,7 +55,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/ASEE.jpg
+  image: /images/ASEE.jpg
 - id: doi:10.1145/3641555.3705256
   title: Student Usage of Metacognition-Promoting Tool in a CS2 Course and its Relationship
     with Performance
@@ -75,7 +75,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/SIGCSE2025.png
+  image: /images/SIGCSE2025.png
 - id: doi:/10.1145/3626252.3630805
   title: 'ClearMind Workshop: An ACT-based Intervention Tailored for Academic Procrastination
     among Computing Students'
@@ -89,6 +89,6 @@
   date: '2024-03-07'
   link: https://doi.org/hbk4gm
   type: paper
-  image: images/SIGCSE2024.png
+  image: /images/SIGCSE2024.png
   plugin: sources.py
   file: sources.yaml

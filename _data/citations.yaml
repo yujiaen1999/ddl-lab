@@ -89,7 +89,7 @@
   publisher: Proceedings of the 55th ACM Technical Symposium on Computer Science Education
     V. 1
   date: '2024-03-07'
-  link: https://doi.org/hbk4gm
+  link: https://doi.org//10.1145/3626252.3630805
   type: paper
   image: /images/SIGCSE2024.png
   plugin: sources.py
